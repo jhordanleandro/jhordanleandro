@@ -1,7 +1,5 @@
 ## Bem vind@ ao meu perfil! 👋
 
-- Fui selecionado para o programa HIRING CODERS que tem parceria entre a VTEX e GAMA ACADEMY e estou na segunda etapa 😮
-- No atual momento não estou atuando ativamente na área de desenvolvimento, porém aberto a propostas 😁
 - Estudando ativamente para me tornar um desenvolvedor FULL STACK 🥶
  
 <div align="center"><br>
