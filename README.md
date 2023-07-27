@@ -1,6 +1,5 @@
 ## Bem vind@ ao meu perfil! 👋
 
-- Estudando ativamente para me tornar um desenvolvedor FULL STACK 🥶
  
 <div align="center"><br>
   <img align="center" alt="Rafa-yoda" width=200px" src="https://pa1.narvii.com/6594/092a6cbdf933a3e53efca88e63d0c09805343bdc_hq.gif">
