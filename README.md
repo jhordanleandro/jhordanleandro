@@ -1,10 +1,6 @@
 ## Bem vind@ ao meu perfil! 👋
 
  
-<div align="center"><br>
-  <img align="center" alt="Rafa-yoda" width=200px" src="https://pa1.narvii.com/6594/092a6cbdf933a3e53efca88e63d0c09805343bdc_hq.gif">
-</div>
- 
  <div align="center"><br>
   <a href="https://github.com/jhordanleandro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhordanleandro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
