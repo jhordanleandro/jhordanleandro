@@ -7,9 +7,9 @@ on:
 
 permissions:
   contents: write
-  actions: read
   issues: read
   pull-requests: read
+  packages: read
 
 jobs:
   github-metrics:
@@ -17,16 +17,15 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
           user: jhordanleandro
+          filename: github-metrics.svg
           template: classic
 
-          # Base educacional
+          # Base voltada a perfil de professor
           base: header, repositories, activity
 
-          # Linguagens (didático)
+          # Linguagens reais dos repositórios
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
@@ -34,14 +33,14 @@ jobs:
           plugin_languages_other: yes
           plugin_languages_indepth: yes
 
-          # Tecnologias por ícones (topics)
+          # Tecnologias por ícones (usa topics dos repositórios)
           plugin_topics: yes
           plugin_topics_limit: 12
           plugin_topics_mode: icons
 
-          # Repositórios
+          # Repositórios em destaque
           plugin_repositories: yes
           plugin_repositories_featured: true
 
-          # Aparência
+          # Localização
           config_timezone: America/Fortaleza
