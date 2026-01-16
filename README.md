@@ -1,13 +1,44 @@
-## Bem vind@ ao meu perfil! 👋
+## 👋 Olá! Eu sou Jhordan Leandro
+
+Sou professor e entusiasta de Tecnologia da Informação, com foco em **Programação**, **Lógica**, **Arquitetura de Computadores** e **Formação Técnica**.  
+Aqui você encontrará repositórios educacionais, projetos práticos e materiais de estudo voltados para o ensino e aprendizagem em TI.
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/jhordanleandro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhordanleandro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhordanleandro&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=jhordanleandro&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800"
+  />
 </div>
 
-##
+---
+
+## 🚀 Linguagens mais utilizadas
+
+<div align="center">
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhordanleandro&layout=compact&langs_count=10&theme=dark&hide_border=true&cache_seconds=1800"
+  />
+</div>
+
+---
+
+## 🧠 Áreas de Interesse
+
+- Lógica de Programação  
+- Algoritmos e Fluxogramas  
+- Programação Orientada a Objetos  
+- Java e Python  
+- Arquitetura e Manutenção de Computadores  
+- Educação Profissional e Tecnológica  
+
+---
+
+## 🔗 Conecte-se comigo
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jhordanleandro/" target="_blank">
@@ -24,3 +55,6 @@
   </a>
 </div>
 
+---
+
+📌 *Este perfil é constantemente atualizado com novos projetos, aulas e materiais educacionais.*
