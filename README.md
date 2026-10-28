@@ -31,7 +31,7 @@ Ensino programação no ensino médio técnico e construo os sistemas que uso co
 | **Cronograma de Visitas** | Monta o roteiro semanal de visitas a estagiários por região, traça a rota no mapa e registra check-in com foto e GPS, mesmo offline. | Next.js · PHP · Google Maps API · IndexedDB |
 | **SAD-SEDUC** | Automatiza o lançamento de aulas, frequência e notas no Professor Online (SEDUC-CE) a partir das planilhas de planejamento. | Python · Google Sheets · systemd |
 | **SIGCO** | PWA offline-first pensada para tablet e caneta, com sincronização em lote e resolução de conflitos entre dispositivos. | Vue 3 · Laravel 12 · Dexie.js |
-| **Sim Labs** | Laboratório offline de redes e segurança: simula DDoS, SQL injection e ARP spoofing, e mostra o efeito de cada defesa nas métricas. | JavaScript · Canvas · cenários em JSON |
+| **[Sim Labs](https://github.com/jhordanleandro/sim-labs)** | Laboratório offline de redes e segurança: simula DDoS, SQL injection e ARP spoofing, e mostra o efeito de cada defesa nas métricas. | JavaScript · Canvas · cenários em JSON |
 | **agent-orchestrator** | Orquestra agentes de código com papéis separados: um supervisiona, outro implementa e um terceiro revisa, cada um com permissões próprias. | Python |
 | **[StockFlow](https://github.com/jhordanleandro/stockflow)** | API REST de gestão de estoque e fornecedores, desenvolvida no Projeto Integrador Full Stack. | Node.js · Express · Prisma · SQLite |
 
