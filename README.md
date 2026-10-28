@@ -33,7 +33,7 @@ Ensino programação no ensino médio técnico e construo os sistemas que uso co
 | **SIGCO** | PWA offline-first pensada para tablet e caneta, com sincronização em lote e resolução de conflitos entre dispositivos. | Vue 3 · Laravel 12 · Dexie.js |
 | **Sim Labs** | Laboratório offline de redes e segurança: simula DDoS, SQL injection e ARP spoofing, e mostra o efeito de cada defesa nas métricas. | JavaScript · Canvas · cenários em JSON |
 | **agent-orchestrator** | Orquestra agentes de código com papéis separados: um supervisiona, outro implementa e um terceiro revisa, cada um com permissões próprias. | Python |
-| **[StockFlow](https://github.com/jhordanleandro/stockflow)** | Gestão de estoque e fornecedores, desenvolvido no Projeto Integrador Full Stack. | React · Express · Prisma |
+| **[StockFlow](https://github.com/jhordanleandro/stockflow)** | API REST de gestão de estoque e fornecedores, desenvolvida no Projeto Integrador Full Stack. | Node.js · Express · Prisma · SQLite |
 
 <sub>Boa parte desses sistemas lida com dados de alunos, por isso o código é privado.</sub>
 
